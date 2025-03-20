@@ -1,5 +1,19 @@
 # Exploratory Data Analysis in MySQL
 
+## Table of Contents
+- [Overview](#overview)
+- [Goals and Key Questions](#goals-and-key-questions)
+- [Dataset](#dataset)
+- [Key Insights from EDA](#key-insights-from-eda)
+  - [1. Layoff Trends Over Time](#1-layoff-trends-over-time)
+  - [2. Industry and Country Analysis](#2-industry-and-country-analysis)
+  - [3. Company-Level Insights](#3-company-level-insights)
+  - [4. Advanced Queries and Ranking](#4-advanced-queries-and-ranking)
+- [SQL Scripts Used](#sql-scripts-used)
+- [Future Recommendations](#future-recommendations)
+- [Usage Instructions](#usage-instructions)
+
+
 ## **Overview**
 
 This project conducts **Exploratory Data Analysis (EDA)** on a global layoffs dataset using **MySQL**. With the dataset already cleaned, we now dive into analyzing trends, industries, and company-level layoffs to extract meaningful insights. The EDA process helps identify patterns in layoffs across different time periods, locations, and company sizes.
